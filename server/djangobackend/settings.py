@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost"]
+ALLOWED_HOSTS = ["alagarajaSR81.us-south.cf.appdomain.cloud","localhost"]
 
 
 # Application definition

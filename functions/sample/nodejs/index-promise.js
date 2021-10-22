@@ -4,7 +4,7 @@
 
 const Cloudant = require('@cloudant/cloudant');
 
-function main(params) {
+async function main(params) {
 
     const cloudant = Cloudant({
         url: params.COUCH_URL,
